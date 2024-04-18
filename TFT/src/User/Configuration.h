@@ -1470,14 +1470,14 @@
  * The color of the progress bar during print.
  *   Options: [Orange: 0, Yellow: 1, Red: 2, Green: 3, Blue: 4, Cyan: 5, Magenta: 6, Purple: 7, Lime: 8, Gray: 9]
  */
-#define PROGRESS_BAR_COLOR 0  // Default: 0
+#define PROGRESS_BAR_COLOR 3  // Default: 0
 
 /**
  * Progress Bar Layout (Printing menu)
  * Uncomment to enable a progress bar with 10% markers.
  * Comment to enable a standard progress bar.
  */
-//#define MARKED_PROGRESS_BAR  // Default: commented (disabled)
+#define MARKED_PROGRESS_BAR  // Default: commented (disabled)
 
 /**
  * Live Text Common Color Layout (Status Screen menu)
